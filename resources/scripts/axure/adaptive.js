@@ -324,6 +324,10 @@
         // this style INCLUDES the object's my style
         var compoundStyle = $.extend({}, diagramObject.style, adaptiveStyle);
 
+        if (diagramObject.owner.type == 'Axure:Master' && diagramObject.adaptiveStyles) {
+            adaptiveStyle = $ax.style.computeFullStyle(elementId, state, viewId);
+        }
+
         if(!diagramObject.isContained) {
             $ax.style.setAdaptiveStyle(elementId, adaptiveStyle);
         }
