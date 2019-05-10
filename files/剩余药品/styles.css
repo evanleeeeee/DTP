@@ -2137,3 +2137,33 @@
   white-space:nowrap;
   text-transform:none;
 }
+#u983_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:19px;
+  height:19px;
+}
+#u983 {
+  border-width:0px;
+  position:absolute;
+  left:362px;
+  top:109px;
+  width:19px;
+  height:19px;
+  display:flex;
+}
+#u983 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u983_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}

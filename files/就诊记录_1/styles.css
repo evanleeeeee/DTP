@@ -802,7 +802,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -817,7 +817,7 @@
   width:32px;
   height:24px;
   display:flex;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1768,7 +1768,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1783,7 +1783,7 @@
   width:32px;
   height:24px;
   display:flex;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -1875,7 +1875,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:118px;
+  width:146px;
   height:14px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1894,9 +1894,9 @@
 #u384 {
   border-width:0px;
   position:absolute;
-  left:179px;
+  left:164px;
   top:531px;
-  width:118px;
+  width:146px;
   height:14px;
   display:flex;
   font-family:'苹方 粗体', '苹方 中等', '苹方';
@@ -2065,7 +2065,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -2080,7 +2080,7 @@
   width:32px;
   height:24px;
   display:flex;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:16px;
@@ -2172,7 +2172,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:118px;
+  width:146px;
   height:14px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -2191,9 +2191,9 @@
 #u393 {
   border-width:0px;
   position:absolute;
-  left:179px;
+  left:164px;
   top:671px;
-  width:118px;
+  width:146px;
   height:14px;
   display:flex;
   font-family:'苹方 粗体', '苹方 中等', '苹方';
